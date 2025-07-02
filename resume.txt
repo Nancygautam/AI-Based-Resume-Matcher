@@ -1,0 +1,1 @@
+Final year student with strong foundation in C++, data structures, and OOP. Worked on resume matcher using C++.
